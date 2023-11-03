@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cw_7 Calculator</string>
+    <string name="umnozhenie">x</string>
+    <string name="_0">0</string>
+    <string name="ac">AC</string>
+    <string name="_plus">+</string>
+    <string name="_minus">-</string>
+    <string name="delenie">÷</string>
+    <string name="ravno">=</string>
+</resources>
